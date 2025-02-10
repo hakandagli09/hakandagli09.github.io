@@ -4,7 +4,7 @@
 
 ### K-Fold, Lasso Regression Models 
 
-[Project 1 Title](/sample_page)
+[K-Fold and Lasso Regression Models](https://nbviewer.org/github/hakandagli09/kfoldlasso/blob/main/K-fold%2C%20lasso.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 Title](https://github.com/hakandagli09/kfoldlasso)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
