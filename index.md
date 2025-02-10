@@ -2,8 +2,6 @@
 
 ---
 
-### K-Fold, Lasso Regression Models 
-
 [K-Fold and Lasso Regression Models](https://nbviewer.org/github/hakandagli09/kfoldlasso/blob/main/K-fold%2C%20lasso.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
