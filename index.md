@@ -3,7 +3,7 @@
 ---
 
 [K-Fold and Lasso Regression Models](https://nbviewer.org/github/hakandagli09/kfoldlasso/blob/main/K-fold%2C%20lasso.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/k_fold_lasso.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
