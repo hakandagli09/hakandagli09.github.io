@@ -9,6 +9,12 @@
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+This project explores **K-Fold Cross-Validation** and **Lasso Regression** for predictive modeling. 
+It includes:
+- Implementing **K-Fold Cross-Validation** to improve model robustness
+- Using **Lasso Regression** for feature selection and regularization
+- Evaluating model performance with **RMSE and R² scores**
+
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +23,6 @@
 
 ### Category Name 2
 
-- [Project 1 Title](https://github.com/hakandagli09/kfoldlasso)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
