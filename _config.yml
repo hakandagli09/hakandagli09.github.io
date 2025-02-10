@@ -1,13 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Hakan Dagli # your name (or website title) here
+logo: "/images/IMG_9346.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I’m passionate about using data and AI to tackle real-world business challenges and exploring how these technologies are shaping our future. Currently, I’m learning about Sparse Convolutional Neural Networks for object detection, understanding the boundaries of what machine learning can achieve. 
   <br><br>
-  Second description 
+  May 2026 - B.S. in Data Science; Business Analytics (Minor),
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  William & Mary
+  <a href="https://www.linkedin.com/hakan-dagli9/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
