@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Time-Series Forecasting Internship Best Performing Model](https://github.com/hakandagli09/Time-Series-Forecasting/tree/main)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
