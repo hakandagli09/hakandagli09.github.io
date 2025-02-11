@@ -1,6 +1,10 @@
 ## Portfolio
 
 ---
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 
 [K-Fold and Lasso Regression Models](https://nbviewer.org/github/hakandagli09/kfoldlasso/blob/main/K-fold%2C%20lasso.ipynb)
 <img src="images/k_fold_lasso.png?raw=true"/>
@@ -10,10 +14,6 @@ It includes:
 - Implementing **K-Fold Cross-Validation** to improve model robustness
 - Using **Lasso Regression** for feature selection and regularization
 - Evaluating model performance with **RMSE and R² scores**
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
