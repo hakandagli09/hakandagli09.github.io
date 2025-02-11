@@ -6,7 +6,7 @@
 <img src="images/prophet_viz.png?raw=true"/>
 
 - **Prophet + XGBoost Pipeline:** Leveraged Prophet for seasonality/holiday effects, extracted its components, and used XGBoost for enhanced predictive power.  
-- **Feature Engineering & Modeling:** Incorporated holiday data, price information, and Prophet’s trend/seasonality features into XGBoost for improved forecasts.  
+- **Feature Engineering & Modeling:** Incorporated holiday data, price information, and Prophet’s trend/seasonality features into XGBoost for improved forecasts.
 - **Results & Visualization:** Evaluated with MAE/RMSE/MAPE, then plotted historical vs. predicted values to illustrate performance and future forecasts.
 
 ---
@@ -19,5 +19,3 @@ It includes:
 - Implementing **K-Fold Cross-Validation** to improve model robustness
 - Using **Lasso Regression** for feature selection and regularization
 - Evaluating model performance with **RMSE and R² scores**
-
----
