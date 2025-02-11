@@ -2,7 +2,8 @@
 
 ---
 [Time-Series Forecasting Internship Best Performing Model](https://github.com/hakandagli09/Time-Series-Forecasting/tree/main/Prophet%20%2B%20XGBoost)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Viz.png?raw=true"/>
+<img src="images/prophet_viz.png?raw=true"/>
 
 ---
 
