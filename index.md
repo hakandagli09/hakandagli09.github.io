@@ -5,6 +5,9 @@
 <img src="images/Viz.png?raw=true"/>
 <img src="images/prophet_viz.png?raw=true"/>
 
+- **Prophet + XGBoost Pipeline:** Leveraged Prophet for seasonality/holiday effects, extracted its components, and used XGBoost for enhanced predictive power.  
+- **Feature Engineering & Modeling:** Incorporated holiday data, price information, and Prophet’s trend/seasonality features into XGBoost for improved forecasts.  
+- **Results & Visualization:** Evaluated with MAE/RMSE/MAPE, then plotted historical vs. predicted values to illustrate performance and future forecasts.
 ---
 
 [K-Fold and Lasso Regression Models](https://nbviewer.org/github/hakandagli09/kfoldlasso/blob/main/K-fold%2C%20lasso.ipynb)
