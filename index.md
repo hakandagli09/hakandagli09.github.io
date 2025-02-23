@@ -19,3 +19,12 @@ It includes:
 - Implementing **K-Fold Cross-Validation** to improve model robustness
 - Using **Lasso Regression** for feature selection and regularization
 - Evaluating model performance with **RMSE and R² scores**
+
+
+
+
+
+
+
+
+[SQL Work](https://github.com/hakandagli09/SQL/tree/main)
