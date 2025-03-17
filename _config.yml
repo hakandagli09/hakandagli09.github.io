@@ -6,8 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   May 2026 - B.S. in Data Science; Business Analytics (Minor), William & Mary
   <br><br>
   <a href="https://www.linkedin.com/in/hakan-dagli9/">View My LinkedIn Profile</a>
-  <a href="https://github.com/hakandagli09">View My GitHub Profile</a>
-
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
